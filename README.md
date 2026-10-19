@@ -1,8 +1,17 @@
 # Hi there, I'm Chethana Sai Sree 👋
 
-🎓 B.Sc. Computer Science Graduate | Aspiring Python Developer | Generative AI Enthusiast
+### Python Developer | Generative AI Enthusiast
 
-I'm a fresher passionate about Python development, Artificial Intelligence, and Generative AI. I enjoy building practical applications that solve problems using Python, web technologies, and LLM-based tools. I'm continuously learning and developing projects to strengthen my software development skills.
+🎓 B.Sc. Computer Science graduate (MPCS), 2022.
+
+💻 Interested in building practical applications using Python, Large Language Models (LLMs), and Generative AI.
+
+🤖 Hands-on project experience with PDF processing, OCR, AI-powered document summarization, document comparison, and Retrieval-Augmented Generation (RAG).
+
+🌱 Currently improving my Python development and AI application-building skills.
+
+🎯 Seeking entry-level opportunities as a Python Developer or Generative AI / AI Application Developer.
+
 
 ## 💻 Technical Skills
 
