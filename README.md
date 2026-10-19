@@ -12,14 +12,36 @@
 
 🎯 Seeking entry-level opportunities as a Python Developer or Generative AI / AI Application Developer.
 
+## 🛠️ Technical Skills
 
-## 💻 Technical Skills
+**Programming Languages**
+- Python
+- SQL
 
-- **Programming:** Python, SQL
-- **Web Technologies:** HTML, CSS, Flexbox
-- **AI & Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Embeddings
-- **Frameworks & Libraries:** Flask, Streamlit, FAISS, PyPDF
-- **Tools:** Git, GitHub, VS Code
+**Web Development**
+- HTML
+- CSS
+- Flask
+- Streamlit
+
+**Generative AI**
+- Large Language Models (LLMs)
+- Google Gemini API
+- Retrieval-Augmented Generation (RAG)
+- Text Embeddings
+- FAISS
+- OCR with Tesseract
+
+**PDF Processing**
+- PyPDF
+- pdf2image
+- Poppler
+
+**Tools**
+- Git and GitHub
+- Visual Studio Code
+- Python Virtual Environments
+
 
 ## 🚀 Featured Projects
 
