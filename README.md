@@ -45,34 +45,41 @@
 
 ## 🚀 Featured Projects
 
-### 1. AI Document Comparison Assistant
-An AI-powered application that compares two PDF documents, identifies similarities and differences, extracts important information, and generates a downloadable comparison report.
+### 1. 📄 AI Document Summarizer
+An AI-powered application that summarizes PDF documents and answers questions about their content. Supports scanned PDF text extraction using OCR.
 
-**Technologies:** Python, Streamlit, Gemini API, PyPDF, python-docx
+**Technologies:** Python, Streamlit, Flask, Google Gemini API, PyPDF, Tesseract OCR, Poppler
 
-🔗 [View Repository](https://github.com/chethansree77/ai-document-comparison-assistant)
+🔗 [View Project on GitHub](https://github.com/chethansree77/ai-document-summarizer)
 
-### 2. AI Document Summarizer
-An AI application that summarizes PDF documents and helps users understand document content through AI-powered question answering.
+### 2. 📑 AI Document Comparison Assistant
+An AI application that compares two PDF documents, generates summaries, identifies similarities and differences, extracts important information, and creates a downloadable comparison report.
 
-**Technologies:** Python, Streamlit, Google Gemini API, PyPDF
+**Technologies:** Python, Streamlit, Google Gemini API, PyPDF, ReportLab
 
-🔗 [View Repository](https://github.com/chethansree77/ai-document-summarizer)
+🔗 [View Project on GitHub](https://github.com/chethansree77/ai-document-comparison-assistant)
 
-### 3. AI Document Chat — In Progress
-A document question-answering project exploring Retrieval-Augmented Generation (RAG) to retrieve relevant information from PDF documents.
+### 3. 💬 AI Document Chat
+A document question-answering project exploring Retrieval-Augmented Generation (RAG), embeddings, FAISS, and Flask.
 
-**Technologies:** Python, Flask, LLMs, FAISS, Embeddings
+**Technologies:** Python, RAG, LLMs, Embeddings, FAISS, Flask
 
-### 4. AI News Headline Analyzer — In Progress
-A web application that analyzes news headlines for language patterns and potential clickbait indicators.
+🔗 [View my GitHub repositories](https://github.com/chethansree77?tab=repositories)
+
+### 4. 📰 AI News Headline Analyzer
+A Python web application for analyzing news headlines, including language and clickbait-related checks.
 
 **Technologies:** Python, Flask, Generative AI
 
-### 5. AI Image Generator — In Progress
-A text-to-image project exploring generative image models.
+🔗 [View my GitHub repositories](https://github.com/chethansree77?tab=repositories)
 
-**Technologies:** Python, Machine Learning, Diffusers, Stable Diffusion
+### 5. 🎨 AI Image Generator
+An image-generation project exploring Stable Diffusion and Diffusers.
+
+**Technologies:** Python, Machine Learning, Generative AI, Stable Diffusion, Diffusers
+
+🔗 [View my GitHub repositories](https://github.com/chethansree77?tab=repositories)
+
 
 ## 🎯 Career Goals
 
@@ -86,10 +93,17 @@ A text-to-image project exploring generative image models.
 - Telugu
 - English
 - Hindi
+  
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethansree77&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethansree77&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📫 Connect With Me
 
-- **GitHub:** [chethansree77](https://github.com/chethansree77)
+- 💻 GitHub: [chethansree77](https://github.com/chethansree77)
+- 📂 Explore my projects: [GitHub Repositories](https://github.com/chethansree77?tab=repositories)
 
 ---
 
