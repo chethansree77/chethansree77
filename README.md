@@ -20,64 +20,98 @@
 
 **Web Development:** HTML, CSS, Flask, Streamlit
 
-**Generative AI:** LLMs, Google Gemini API, RAG, text embeddings, FAISS
+**Generative AI:** LLMs, Google Gemini API, RAG, Text Embeddings, FAISS
 
 **Document Processing:** PyPDF, Tesseract OCR, pdf2image, Poppler
 
-**Tools:** Git, GitHub, Visual Studio Code, Python virtual environments
+**Database:** SQLite
+
+**Tools:** Git, GitHub, Visual Studio Code, Python Virtual Environments
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Live Projects
 
-### 1. 📑 AI Document Comparison Assistant
-Compares two PDF documents, generates summaries, identifies similarities and differences, extracts important information, and creates a downloadable comparison report.
+### 1. 📚 AI Personalized Learning Coach
+
+An AI-powered learning application that creates personalized study plans, generates practice quizzes, evaluates answers, tracks learning progress, and recommends next steps.
+
+**Technologies:** Python, Streamlit, Google Gemini API, SQLite
+
+🌐 **[Open Live Project](https://ai-personalized-learning-coach-hrradgl8zjumdt7e7kyyea.streamlit.app/)**
+
+💻 **[View GitHub Repository](https://github.com/chethansree77/ai-personalized-learning-coach)**
+
+### 2. 📑 AI Document Comparison Assistant
+
+An AI-powered application that compares two PDF documents, generates summaries, identifies similarities and differences, extracts important information, and creates downloadable comparison reports.
 
 **Technologies:** Python, Streamlit, Google Gemini API, PyPDF, ReportLab
 
-🔗 [View Project](https://github.com/chethansree77/ai-document-comparison-assistant)
+🌐 **[Open Live Project](https://ai-document-comparison-assistant-ddrd7wfomkkjdwb47ulvfm.streamlit.app/)**
 
-### 2. 📄 DocuMind AI — Document Summarizer
+💻 **[View GitHub Repository](https://github.com/chethansree77/ai-document-comparison-assistant)**
+
+---
+
+## 💡 Other Projects
+
+### 3. 📄 DocuMind AI — Document Summarizer
+
 An AI-powered document summarization application with question answering and OCR support for scanned documents.
 
-**Technologies:** Python, Streamlit, Google Gemini API, PDF processing, Tesseract OCR
+**Technologies:** Python, Streamlit, Google Gemini API, PDF Processing, Tesseract OCR
 
-🔗 [View Project](https://github.com/chethansree77/ai-document-summarizer)
+🔗 [View GitHub Repository](https://github.com/chethansree77/ai-document-summarizer)
 
-### 3. 🍳 AI Recipe Creator
+### 4. 🍳 AI Recipe Creator
+
 A recipe generation application built with Python and Streamlit, using Generative AI to help users discover recipe ideas.
 
 **Technologies:** Python, Streamlit, Google Gemini API, CSS
 
-🔗 [View Project](https://github.com/chethansree77/ai-recipe-creator)
+🔗 [View GitHub Repository](https://github.com/chethansree77/ai-recipe-creator)
 
-### 4. 💬 AI WhatsApp Message Improver
+### 5. 💬 AI WhatsApp Message Improver
+
 A web application that helps users rewrite messages in different tones and styles.
 
 **Technologies:** Python, Flask, HTML, CSS, Generative AI
 
-🔗 [View Project](https://github.com/chethansree77/ai-whatsapp-message-improver)
+🔗 [View GitHub Repository](https://github.com/chethansree77/ai-whatsapp-message-improver)
 
-### 5. 📰 AI News Headline Analyzer
+### 6. 📰 AI News Headline Analyzer
+
 A Python web application for analyzing news headlines, including language and clickbait-related checks.
 
 **Technologies:** Python, Flask, Generative AI
 
-🔗 [View Project](https://github.com/chethansree77/ai-news-headline-analyzer)
+🔗 [View GitHub Repository](https://github.com/chethansree77/ai-news-headline-analyzer)
 
-### 6. 🎨 AI Image Generator
+### 7. 🎨 AI Image Generator
+
 An image-generation project exploring Stable Diffusion and Diffusers.
 
 **Technologies:** Python, Machine Learning, Stable Diffusion, Diffusers
 
 🔗 [Explore My Repositories](https://github.com/chethansree77?tab=repositories)
 
-### 7. 📚 AI Document Chat
+### 8. 📚 AI Document Chat
+
 A document question-answering project exploring Retrieval-Augmented Generation, embeddings, FAISS, and Flask.
 
-**Technologies:** Python, RAG, LLMs, embeddings, FAISS, Flask
+**Technologies:** Python, RAG, LLMs, Embeddings, FAISS, Flask
 
 🔗 [Explore My Repositories](https://github.com/chethansree77?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="49%" />
+</p>
 
 ---
 
@@ -95,14 +129,6 @@ A document question-answering project exploring Retrieval-Augmented Generation, 
 - Telugu
 - English
 - Hindi
-
----
-
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chethansree77&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethansree77&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
